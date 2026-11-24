@@ -1,3 +1,5 @@
+<img src="assets/icon.png" width="96" alt="sori app icon">
+
 # sori
 
 [![skills.sh](https://skills.sh/b/froggsleep/sori)](https://skills.sh/froggsleep/sori/sori-recorder)
